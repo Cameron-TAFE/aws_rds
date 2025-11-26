@@ -1,10 +1,10 @@
 <?php
 
 //database connection details
-$servername = "cfmysqldb.c2a2z7gukxjr.us-east-1.rds.amazonaws.com";
+$servername = "localhost";
 $username = "admin";
-$password = "Password123";
-$database = "awsexample";
+$password = "";
+$database = "aws_example";
 
 //connect to the database
 try {
